@@ -25,6 +25,9 @@ Once the services are running, the website is available on http://localhost:8090
                             └────────►│ Backend API (FastAPI) │
                                       └───────────────────────┘
 ```
+
+## TODO
+- add a workflow to deploy the site to a VM
                                                                
                                                                
                                                                
