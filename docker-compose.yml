@@ -2,15 +2,11 @@ services:
   frontend:
     build:
       context: ./frontend
-      # ports:
-        # - "8042:80"
     restart: always
 
   backend:
     build:
       context: ./backend
-      # ports:
-        #- "8080:8080"
     restart: always
 
   nginx:
